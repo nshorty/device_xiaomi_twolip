@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_twolip.mk
+    $(LOCAL_DIR)/revengeos_twolip.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_twolip-user \
-    aosp_twolip-userdebug \
-    aosp_twolip-eng
+    revengeos_twolip-user \
+    revengeos_twolip-userdebug \
+    revengeos_twolip-eng
